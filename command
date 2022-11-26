@@ -1,1 +1,1 @@
-                               -----THIS IS ALX-SE TEAM OF COMMAND DICTIONARY-----
+                                                -----THIS IS ALX-SE TEAM OF COMMAND DICTIONARY-----
