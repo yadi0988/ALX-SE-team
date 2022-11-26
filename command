@@ -17,6 +17,6 @@
 
          * ls -a = list also hidden files and directorys.
 
-     	 * ls -l = list file and directory in long format.
-
-     * less= it is a program that lets us view text file mean content of file.
+         * ls -l = list file and directory in long format.
+  
+         * less= it is a program that lets us view text file mean content of file.
