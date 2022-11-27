@@ -1,4 +1,4 @@
-                            -----THIS IS ALX-SE TEAM OF COMMAND DICTIONARY-----
+                    -----THIS IS ALX-SE TEAM OF COMMAND DICTIONARY-----
 
 
      * pwd = print working/current directory or folder.
